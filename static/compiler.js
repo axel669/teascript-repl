@@ -1,4 +1,6 @@
-importScripts("https://cdn.jsdelivr.net/gh/axel669/teascript@v0.22.8/dist/browser-tea.js")
+importScripts("https://unpkg.com/prettier@2.5.1/standalone.js")
+importScripts("https://unpkg.com/prettier@2.5.1/parser-babel.js")
+importScripts("https://cdn.jsdelivr.net/gh/axel669/teascript@v0.22.12/dist/browser-tea.js")
 
 addEventListener(
     "message",
